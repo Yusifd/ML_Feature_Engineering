@@ -115,5 +115,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
-   cd housing-price-prediction
+   git clone https://github.com/Yusifd/ML_Feature_Engineering.git
+   cd ML_Feature_Engineering
